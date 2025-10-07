@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c6bdbe16d58434982866c9add3eace0/artifacts
+end_time: 1759770532264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c6bdbe16d58434982866c9add3eace0
+run_name: polite-mouse-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759770532181
+status: 3
+tags: []
+user_id: AMMAR

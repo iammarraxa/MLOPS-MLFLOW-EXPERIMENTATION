@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/739213310544106878/57a94da6f53943c688eeef9a998f60c7/artifacts
+end_time: 1759816680068
+entry_point_name: ''
+experiment_id: '739213310544106878'
+lifecycle_stage: active
+run_id: 57a94da6f53943c688eeef9a998f60c7
+run_name: caring-wolf-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759816675163
+status: 3
+tags: []
+user_id: AMMAR

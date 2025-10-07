@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/460683ca2e234062b3d16f414343f0d0/artifacts
+end_time: 1759771639325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 460683ca2e234062b3d16f414343f0d0
+run_name: selective-seal-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759771638805
+status: 3
+tags: []
+user_id: AMMAR

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ac00de94fd2428ca12cd9f018648636/artifacts
+end_time: 1759770343088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ac00de94fd2428ca12cd9f018648636
+run_name: nimble-seal-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759770342987
+status: 3
+tags: []
+user_id: AMMAR

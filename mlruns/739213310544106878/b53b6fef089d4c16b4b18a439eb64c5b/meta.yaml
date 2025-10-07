@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/739213310544106878/b53b6fef089d4c16b4b18a439eb64c5b/artifacts
+end_time: 1759813952199
+entry_point_name: ''
+experiment_id: '739213310544106878'
+lifecycle_stage: active
+run_id: b53b6fef089d4c16b4b18a439eb64c5b
+run_name: angry-fawn-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759813943825
+status: 3
+tags: []
+user_id: AMMAR

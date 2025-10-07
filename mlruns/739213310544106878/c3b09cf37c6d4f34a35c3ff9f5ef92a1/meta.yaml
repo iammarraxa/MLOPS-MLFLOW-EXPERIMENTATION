@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/739213310544106878/c3b09cf37c6d4f34a35c3ff9f5ef92a1/artifacts
+end_time: 1759813355060
+entry_point_name: ''
+experiment_id: '739213310544106878'
+lifecycle_stage: active
+run_id: c3b09cf37c6d4f34a35c3ff9f5ef92a1
+run_name: caring-grouse-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759813354115
+status: 3
+tags: []
+user_id: AMMAR
