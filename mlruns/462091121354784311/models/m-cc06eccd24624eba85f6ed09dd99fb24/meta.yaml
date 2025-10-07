@@ -1,0 +1,10 @@
+artifact_location: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/models/m-cc06eccd24624eba85f6ed09dd99fb24/artifacts
+creation_timestamp: 1759820114106
+experiment_id: '462091121354784311'
+last_updated_timestamp: 1759820119363
+model_id: m-cc06eccd24624eba85f6ed09dd99fb24
+model_type: null
+name: random forest
+source_run_id: 5e2cff7dc71e4f3f848ca8be1c77a4d6
+status: 2
+status_message: null

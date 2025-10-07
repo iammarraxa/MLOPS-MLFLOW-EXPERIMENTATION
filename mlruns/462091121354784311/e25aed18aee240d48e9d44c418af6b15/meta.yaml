@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/e25aed18aee240d48e9d44c418af6b15/artifacts
+end_time: 1759822100499
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: e25aed18aee240d48e9d44c418af6b15
+run_name: adventurous-dog-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822100341
+status: 3
+tags: []
+user_id: AMMAR

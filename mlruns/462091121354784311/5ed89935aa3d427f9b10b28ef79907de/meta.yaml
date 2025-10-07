@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/5ed89935aa3d427f9b10b28ef79907de/artifacts
+end_time: 1759821513505
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 5ed89935aa3d427f9b10b28ef79907de
+run_name: righteous-carp-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513441
+status: 3
+tags: []
+user_id: AMMAR

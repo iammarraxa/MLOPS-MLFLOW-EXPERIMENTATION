@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/d9e0ef2e50eb41af832a057498a00bbc/artifacts
+end_time: 1759822004044
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: d9e0ef2e50eb41af832a057498a00bbc
+run_name: clean-swan-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822003922
+status: 3
+tags: []
+user_id: AMMAR

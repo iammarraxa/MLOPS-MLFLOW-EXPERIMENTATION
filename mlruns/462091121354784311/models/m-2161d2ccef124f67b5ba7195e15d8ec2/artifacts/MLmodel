@@ -1,0 +1,22 @@
+artifact_path: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/models/m-2161d2ccef124f67b5ba7195e15d8ec2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-2161d2ccef124f67b5ba7195e15d8ec2
+model_size_bytes: 317818
+model_uuid: m-2161d2ccef124f67b5ba7195e15d8ec2
+prompts: null
+run_id: 998e8cbc7d7a467295afefd171bd1928
+utc_time_created: '2025-10-07 07:18:34.193200'

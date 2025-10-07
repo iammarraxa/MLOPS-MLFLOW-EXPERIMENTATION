@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/26ab42d289df401a9bb0b127c538f6a2/artifacts
+end_time: 1759820113395
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 26ab42d289df401a9bb0b127c538f6a2
+run_name: merciful-kite-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759820113333
+status: 3
+tags: []
+user_id: AMMAR

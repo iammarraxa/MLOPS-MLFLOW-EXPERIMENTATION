@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/7b9d75cc6a3142e598c057eb20698b31/artifacts
+end_time: 1759822138942
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 7b9d75cc6a3142e598c057eb20698b31
+run_name: crawling-stork-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822138819
+status: 3
+tags: []
+user_id: AMMAR

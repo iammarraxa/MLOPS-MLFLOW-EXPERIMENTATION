@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/844286c0db20499795e049b36f38c14b/artifacts
+end_time: 1759822005102
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 844286c0db20499795e049b36f38c14b
+run_name: dazzling-frog-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822004963
+status: 3
+tags: []
+user_id: AMMAR

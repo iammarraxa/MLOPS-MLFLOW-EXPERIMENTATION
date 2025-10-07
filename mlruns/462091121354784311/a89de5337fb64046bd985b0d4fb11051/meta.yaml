@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/a89de5337fb64046bd985b0d4fb11051/artifacts
+end_time: 1759821513990
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: a89de5337fb64046bd985b0d4fb11051
+run_name: upbeat-shark-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513924
+status: 3
+tags: []
+user_id: AMMAR

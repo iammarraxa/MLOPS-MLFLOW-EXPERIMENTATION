@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/9acdbfe857204c4885d353efa2580985/artifacts
+end_time: 1759820113322
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 9acdbfe857204c4885d353efa2580985
+run_name: amusing-shrike-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759820113125
+status: 3
+tags: []
+user_id: AMMAR

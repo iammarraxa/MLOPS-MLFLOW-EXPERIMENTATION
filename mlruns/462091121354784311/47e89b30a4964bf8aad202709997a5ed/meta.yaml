@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/47e89b30a4964bf8aad202709997a5ed/artifacts
+end_time: 1759819508930
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 47e89b30a4964bf8aad202709997a5ed
+run_name: traveling-hen-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759819508868
+status: 3
+tags: []
+user_id: AMMAR

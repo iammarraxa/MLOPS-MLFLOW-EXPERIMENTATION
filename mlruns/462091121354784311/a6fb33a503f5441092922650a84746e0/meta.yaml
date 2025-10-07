@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/a6fb33a503f5441092922650a84746e0/artifacts
+end_time: 1759820113850
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: a6fb33a503f5441092922650a84746e0
+run_name: righteous-yak-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759820113782
+status: 3
+tags: []
+user_id: AMMAR

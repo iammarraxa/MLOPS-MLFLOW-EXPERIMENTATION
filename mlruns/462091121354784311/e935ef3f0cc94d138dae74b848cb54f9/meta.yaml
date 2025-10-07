@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/e935ef3f0cc94d138dae74b848cb54f9/artifacts
+end_time: 1759821513287
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: e935ef3f0cc94d138dae74b848cb54f9
+run_name: mysterious-ox-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513228
+status: 3
+tags: []
+user_id: AMMAR

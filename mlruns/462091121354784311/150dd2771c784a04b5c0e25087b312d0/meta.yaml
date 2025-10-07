@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/150dd2771c784a04b5c0e25087b312d0/artifacts
+end_time: 1759822138773
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 150dd2771c784a04b5c0e25087b312d0
+run_name: welcoming-seal-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822138663
+status: 3
+tags: []
+user_id: AMMAR

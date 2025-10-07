@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/16fae3be84b4453a81dd8926456aa69c/artifacts
+end_time: 1759821902125
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 16fae3be84b4453a81dd8926456aa69c
+run_name: delightful-kit-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821901992
+status: 3
+tags: []
+user_id: AMMAR

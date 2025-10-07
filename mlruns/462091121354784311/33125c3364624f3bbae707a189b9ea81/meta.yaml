@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/33125c3364624f3bbae707a189b9ea81/artifacts
+end_time: 1759821902633
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 33125c3364624f3bbae707a189b9ea81
+run_name: dazzling-goat-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821902516
+status: 3
+tags: []
+user_id: AMMAR

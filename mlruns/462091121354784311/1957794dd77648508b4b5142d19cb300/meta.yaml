@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/1957794dd77648508b4b5142d19cb300/artifacts
+end_time: 1759821513432
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 1957794dd77648508b4b5142d19cb300
+run_name: chill-dog-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513368
+status: 3
+tags: []
+user_id: AMMAR

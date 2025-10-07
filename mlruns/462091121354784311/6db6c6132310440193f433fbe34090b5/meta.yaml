@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/6db6c6132310440193f433fbe34090b5/artifacts
+end_time: 1759822318861
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 6db6c6132310440193f433fbe34090b5
+run_name: grandiose-boar-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822318634
+status: 3
+tags: []
+user_id: AMMAR

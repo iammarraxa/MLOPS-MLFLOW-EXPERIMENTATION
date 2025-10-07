@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/3337334bd6e54a24ac84a6bf0934f43d/artifacts
+end_time: 1759820113116
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 3337334bd6e54a24ac84a6bf0934f43d
+run_name: loud-lark-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759820113057
+status: 3
+tags: []
+user_id: AMMAR

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/fc95b9f2b788486881179c5cb61f4900/artifacts
+end_time: 1759822319324
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: fc95b9f2b788486881179c5cb61f4900
+run_name: mercurial-stoat-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822319198
+status: 3
+tags: []
+user_id: AMMAR

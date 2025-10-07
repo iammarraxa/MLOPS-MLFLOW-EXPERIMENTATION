@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/feffa32389be4e10b17e25f7811ae4a6/artifacts
+end_time: 1759822099511
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: feffa32389be4e10b17e25f7811ae4a6
+run_name: big-auk-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822099391
+status: 3
+tags: []
+user_id: AMMAR

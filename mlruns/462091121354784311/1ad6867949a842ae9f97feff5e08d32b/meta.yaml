@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/1ad6867949a842ae9f97feff5e08d32b/artifacts
+end_time: 1759821513358
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 1ad6867949a842ae9f97feff5e08d32b
+run_name: enthused-skink-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513297
+status: 3
+tags: []
+user_id: AMMAR

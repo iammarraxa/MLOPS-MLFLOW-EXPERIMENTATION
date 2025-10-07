@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/8c1379bb76d441b0a6ffd1e7ba7f0e60/artifacts
+end_time: 1759819509064
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 8c1379bb76d441b0a6ffd1e7ba7f0e60
+run_name: bright-eel-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759819509007
+status: 3
+tags: []
+user_id: AMMAR

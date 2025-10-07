@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/26817e472fe04927b213f54b0fba1aad/artifacts
+end_time: 1759822101026
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 26817e472fe04927b213f54b0fba1aad
+run_name: enthused-cub-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822100901
+status: 3
+tags: []
+user_id: AMMAR

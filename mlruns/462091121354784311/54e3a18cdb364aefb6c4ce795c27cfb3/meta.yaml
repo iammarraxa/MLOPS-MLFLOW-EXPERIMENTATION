@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/54e3a18cdb364aefb6c4ce795c27cfb3/artifacts
+end_time: 1759822320648
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 54e3a18cdb364aefb6c4ce795c27cfb3
+run_name: adorable-seal-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822320538
+status: 3
+tags: []
+user_id: AMMAR

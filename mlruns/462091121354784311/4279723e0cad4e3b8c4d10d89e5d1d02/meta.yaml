@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/4279723e0cad4e3b8c4d10d89e5d1d02/artifacts
+end_time: 1759822319011
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 4279723e0cad4e3b8c4d10d89e5d1d02
+run_name: aged-owl-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822318903
+status: 3
+tags: []
+user_id: AMMAR

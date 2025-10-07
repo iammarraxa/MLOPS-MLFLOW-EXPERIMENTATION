@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/48d1492bfc0b4d26894f007de2de242f/artifacts
+end_time: 1759821513581
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 48d1492bfc0b4d26894f007de2de242f
+run_name: awesome-jay-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513517
+status: 3
+tags: []
+user_id: AMMAR

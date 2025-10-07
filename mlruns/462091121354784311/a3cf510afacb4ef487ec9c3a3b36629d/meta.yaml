@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/a3cf510afacb4ef487ec9c3a3b36629d/artifacts
+end_time: 1759820113989
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: a3cf510afacb4ef487ec9c3a3b36629d
+run_name: bald-hound-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759820113929
+status: 3
+tags: []
+user_id: AMMAR

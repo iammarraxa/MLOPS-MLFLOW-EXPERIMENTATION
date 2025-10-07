@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/9395965d1421402a9851caa4147f13d0/artifacts
+end_time: 1759820113047
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 9395965d1421402a9851caa4147f13d0
+run_name: likeable-bug-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759820112984
+status: 3
+tags: []
+user_id: AMMAR

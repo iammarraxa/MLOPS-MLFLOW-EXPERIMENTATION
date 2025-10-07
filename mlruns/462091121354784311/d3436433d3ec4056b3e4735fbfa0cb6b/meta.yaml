@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/d3436433d3ec4056b3e4735fbfa0cb6b/artifacts
+end_time: 1759822139404
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: d3436433d3ec4056b3e4735fbfa0cb6b
+run_name: useful-bee-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822139294
+status: 3
+tags: []
+user_id: AMMAR

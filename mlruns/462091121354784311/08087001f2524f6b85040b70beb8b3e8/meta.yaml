@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/08087001f2524f6b85040b70beb8b3e8/artifacts
+end_time: 1759822004529
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 08087001f2524f6b85040b70beb8b3e8
+run_name: beautiful-mare-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822004340
+status: 3
+tags: []
+user_id: AMMAR

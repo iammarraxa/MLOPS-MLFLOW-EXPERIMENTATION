@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/b9d8a08f8ed143a49248343c119bb361/artifacts
+end_time: 1759821900841
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: b9d8a08f8ed143a49248343c119bb361
+run_name: casual-fish-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821900712
+status: 3
+tags: []
+user_id: AMMAR

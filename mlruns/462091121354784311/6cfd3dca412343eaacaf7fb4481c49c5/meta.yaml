@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/6cfd3dca412343eaacaf7fb4481c49c5/artifacts
+end_time: 1759822138164
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: 6cfd3dca412343eaacaf7fb4481c49c5
+run_name: glamorous-hog-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822138043
+status: 3
+tags: []
+user_id: AMMAR

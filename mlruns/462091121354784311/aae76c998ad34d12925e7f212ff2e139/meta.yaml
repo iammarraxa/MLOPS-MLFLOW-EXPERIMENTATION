@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/aae76c998ad34d12925e7f212ff2e139/artifacts
+end_time: 1759822320112
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: aae76c998ad34d12925e7f212ff2e139
+run_name: rare-crab-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759822320001
+status: 3
+tags: []
+user_id: AMMAR

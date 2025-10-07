@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/cc724064c46b46818dd62f87935df8fe/artifacts
+end_time: 1759821513843
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: cc724064c46b46818dd62f87935df8fe
+run_name: inquisitive-crab-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759821513772
+status: 3
+tags: []
+user_id: AMMAR

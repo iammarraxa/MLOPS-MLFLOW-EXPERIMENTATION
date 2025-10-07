@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/cowlar_practice/MLOPS/MLOPS-MLFLOW-EXPERIMENTATION/mlruns/462091121354784311/ac593e56e54a474f8c260729bfe1041a/artifacts
+end_time: 1759819509202
+entry_point_name: ''
+experiment_id: '462091121354784311'
+lifecycle_stage: active
+run_id: ac593e56e54a474f8c260729bfe1041a
+run_name: luminous-stork-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759819509138
+status: 3
+tags: []
+user_id: AMMAR
